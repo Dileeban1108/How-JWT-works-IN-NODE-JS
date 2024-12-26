@@ -15,7 +15,8 @@
     "nodemon": "^3.1.0",
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.23.0",
-    "toast": "^0.5.4"
+    "toast": "^0.5.4",
+    "y": "file:"
   },
   "scripts": {
     "start": "node server.js",

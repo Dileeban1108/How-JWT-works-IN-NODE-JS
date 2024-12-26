@@ -57,7 +57,7 @@ const Register = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:3001/register/studentRegister",
+        "/register/studentRegister",
         {
           username,
           studentnumber,
